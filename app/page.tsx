@@ -116,7 +116,7 @@ export default function Home() {
         {/* Why Choose Us */}
         <section className="mt-32 mb-20">
           <div className="text-center mb-16">
-            <h2 className="text-3xl font-bold mb-4">لماذا تختار Bookify؟</h2>
+            <h2 className="text-3xl font-bold mb-4">لماذا تختار One-Go؟</h2>
             <p className="text-muted-foreground">نسعى لتوفير أفضل تجربة حجز في المملكة بأحدث التقنيات</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-12 text-center">
