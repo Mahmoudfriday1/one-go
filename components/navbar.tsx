@@ -8,7 +8,7 @@ export function Navbar() {
       <div className="container mx-auto flex h-16 items-center justify-between px-4">
         <div className="flex items-center gap-8">
           <Link href="/" className="flex items-center space-x-2 space-x-reverse">
-            <span className="text-2xl font-bold tracking-tight text-primary">Bookify</span>
+            <span className="text-2xl font-bold tracking-tight text-primary">One-Go</span>
           </Link>
           <div className="hidden md:flex gap-6">
             <Link href="/services/stadiums" className="text-sm font-medium transition-colors hover:text-primary">
